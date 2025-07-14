@@ -12,15 +12,15 @@ In the era of “AI+”, the deep integration of artificial intelligence with di
 Research Areas
 ======
 
-1. Large Model Knowledge Enhancement
+- Large Model Knowledge Enhancement
 
 Targeting vertical applications of large language models, the team investigates methods for feature extraction and unified representation of multi-source heterogeneous data, collaborative retrieval and enhancement of heterogeneous knowledge across multiple centers, efficient modeling and evolution of domain-specific knowledge, as well as long-context understanding and generation. Further research includes fine-tuning of pretrained models with knowledge augmentation, automated prompt and chain-of-thought construction, trustworthy reasoning with large models, and collaborative training and updating mechanisms for large and small models.
 
-2. Smart Healthcare
+- Smart Healthcare
 
 Focusing on the intelligent integration of multimodal medical data—including genomics, electronic health records, medical imaging, and physiological behavior—the research addresses multimodal data alignment and standardization, multi-center data sharing and distribution, and domain-specific feature extraction and storage. The team also explores multi-scale health solutions such as intelligent analysis and generation of physical examination reports, remote outpatient and surgical assistance systems, multi-omics modeling and simulation, pathological scanning and intelligent imaging, and protein mass spectrometry data encoding.
 
-3. Industrial Intelligence
+- Industrial Intelligence
 
 Oriented toward applications in industrial intelligence, the team conducts research in multimodal industrial data analysis, edge computing, intelligent adaptation of industrial network protocols, and industrial cybersecurity. Key breakthroughs include the development of multimodal industrial large models with knowledge enhancement, lightweight intelligent models for industrial use, reverse engineering of industrial protocols, collaborative deployment of cloud-edge-device models, and secure trusted computing. These technologies are validated and demonstrated in representative application scenarios to drive innovation in real-world industrial settings.
 
