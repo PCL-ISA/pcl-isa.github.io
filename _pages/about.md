@@ -26,8 +26,8 @@ Guided by a mission of demand-driven innovation and real-world application, the 
 The main researchers of the system are as follows:
 [宋震](https://gaoj02.github.io/)
 [梁骁俊](https://liangxj156.github.io/)
-[王昊飞](https://haofei-wang.github.io/about/)
 [王荣杰](https://rongjiewang.github.io/rjwang.github.io/)
+[王昊飞](https://haofei-wang.github.io/about/)
 [骆伟超](https://1359246372.github.io/WeichaoLuo.github.io//)
 [潘静武](https://mor5on.github.io/Jingwu.github.io/)
 [张宇澄](https://yucheng-zhang.github.io/)
