@@ -1,11 +1,53 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "PCL-ISA Research Team Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+
+In the era of "AI+", the deep integration of artificial intelligence with various industries is a key driver of the digital economy and a vital pathway for modernization. The PCL-ISA Research Team is committed to advancing foundational AI methodologies and applications, supporting the digital and intelligent transformation of the real economy. Focuses on exploring the application of artificial intelligence technology in healthcare and industrial development.
+
+Core Research Areas:
+
+1. Domain Big Data and Knowledge Automation
+Research includes high-performance encoding of omics data, multimodal large model fusion, heterogeneous data analysis, self-learning knowledge modeling, and fine-tuning of pretrained models. These technologies empower applications such as smart healthcare and intelligent manufacturing.
+
+2. Perception, Modeling, and Analysis of Intelligent Systems
+Targeting complex systems in medicine and industry, the team develops multi-scale modeling theories, high-fidelity simulations, and digital twin systems. The goal is to enable precise sensing, modeling, and interactive decision-making.
+
+3. Deployment Optimization and Intelligent Applications
+Focused on distributed AI computing, real-time scheduling, and cloud-edge collaboration. The team explores lightweight model deployment, resource-efficient runtime systems, and secure intelligent networking for key application scenarios.
+
+Guided by a mission of "demand-driven innovation and real-world application," the institute aims to be a leading force in China's intelligent technology development.
+
+
+The main researchers of the system are as follows:
+[宋震](https://gaoj02.github.io/)
+[梁骁俊](https://liangxj156.github.io/)
+[王昊飞](https://haofei-wang.github.io/about/)
+[王荣杰](https://rongjiewang.github.io/rjwang.github.io/)
+[骆伟超](https://1359246372.github.io/WeichaoLuo.github.io//)
+[潘静武](https://mor5on.github.io/Jingwu.github.io/)
+[张宇澄](https://yucheng-zhang.github.io/)
+[张雅雯](https://zhangyawen818.github.io/zyw/)
+[董凡](https://fdong-pcl.github.io/)
+[熊孜楠](https://ttppss.github.io/zinanxiong/)
+[周楠](https://morthlee.github.io/)
+[曹婷](https://zjualbee.github.io/tingcao.github.io/)
+[夏远勋](https://yxx025124.github.io/)
+[宁开达](https://kaidaning.github.io/)
+[邓文锋](https://deng-wf.github.io/)
+[文广为](https://guangweiwen.github.io)
+[张小宁](https://xn-zhang.github.io/)
+[唐鹏](https://neitontang.github.io/)
+[颜达森](https://yds1024.github.io/)
+[代菊](https://daiju-pcl.github.io/)
+[吴健豪](https://andrewwjh.github.io/)
+[陈沐尧](https://muyaoc.github.io/academicpages.github.io/)
+[张天成](https://mikeztc.github.io/)
+[龚毓](https://gongy01.github.io/)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
