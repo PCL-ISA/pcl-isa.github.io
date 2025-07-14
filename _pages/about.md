@@ -13,42 +13,67 @@ Research Areas
 ======
 
 1. Large Model Knowledge Enhancement
+
 Targeting vertical applications of large language models, the team investigates methods for feature extraction and unified representation of multi-source heterogeneous data, collaborative retrieval and enhancement of heterogeneous knowledge across multiple centers, efficient modeling and evolution of domain-specific knowledge, as well as long-context understanding and generation. Further research includes fine-tuning of pretrained models with knowledge augmentation, automated prompt and chain-of-thought construction, trustworthy reasoning with large models, and collaborative training and updating mechanisms for large and small models.
 
 2. Smart Healthcare
+
 Focusing on the intelligent integration of multimodal medical data—including genomics, electronic health records, medical imaging, and physiological behavior—the research addresses multimodal data alignment and standardization, multi-center data sharing and distribution, and domain-specific feature extraction and storage. The team also explores multi-scale health solutions such as intelligent analysis and generation of physical examination reports, remote outpatient and surgical assistance systems, multi-omics modeling and simulation, pathological scanning and intelligent imaging, and protein mass spectrometry data encoding.
 
 3. Industrial Intelligence
+
 Oriented toward applications in industrial intelligence, the team conducts research in multimodal industrial data analysis, edge computing, intelligent adaptation of industrial network protocols, and industrial cybersecurity. Key breakthroughs include the development of multimodal industrial large models with knowledge enhancement, lightweight intelligent models for industrial use, reverse engineering of industrial protocols, collaborative deployment of cloud-edge-device models, and secure trusted computing. These technologies are validated and demonstrated in representative application scenarios to drive innovation in real-world industrial settings.
 
 
 Researchers Homepage
 ======
 
-The main researchers are as follows:
 [Dr. Zhen Song](https://gaoj02.github.io/)
+
 [Dr. Xiaojun Liang](https://liangxj156.github.io/)
+
 [Dr. Rongjie Wang](https://rongjiewang.github.io/rjwang.github.io/)
+
 [Dr. Haofei Wang](https://haofei-wang.github.io/about/)
+
 [Dr. Weichao Luo](https://1359246372.github.io/WeichaoLuo.github.io//)
+
 [Dr. Jingwu Pan](https://mor5on.github.io/Jingwu.github.io/)
+
 [Dr. Yucheng Zhang](https://yucheng-zhang.github.io/)
+
 [Dr. Yawen Zhang](https://zhangyawen818.github.io/zyw/)
+
 [Dr. Fan Dong](https://fdong-pcl.github.io/)
+
 [Dr. Zinan Xiong](https://ttppss.github.io/zinanxiong/)
+
 [Dr. Nan Zhou](https://morthlee.github.io/)
+
 [Dr. Ting Cao](https://zjualbee.github.io/tingcao.github.io/)
+
 [Dr. Yuanxun Xia](https://yxx025124.github.io/)
-[Ju Dai](https://daiju-pcl.github.io/)
+
+[Dr. Ju Dai](https://daiju-pcl.github.io/)
+
 [Dr. Kaida Ning](https://kaidaning.github.io/)
-[Wenfeng Deng](https://deng-wf.github.io/)
-[Guangwei Wen](https://guangweiwen.github.io)
-[Xiaoning Zhang](https://xn-zhang.github.io/)
-[Peng Tang](https://neitontang.github.io/)
+
+[Dr. Wenfeng Deng](https://deng-wf.github.io/)
+
+[Dr. Guangwei Wen](https://guangweiwen.github.io)
+
+[Dr. Xiaoning Zhang](https://xn-zhang.github.io/)
+
+[Dr. Peng Tang](https://neitontang.github.io/)
+
 [Dasen Yan](https://yds1024.github.io/)
+
 [Jianhao Wu](https://andrewwjh.github.io/)
+
 [Muyao Chen](https://muyaoc.github.io/academicpages.github.io/)
+
 [Tiancheng Zhang](https://mikeztc.github.io/)
+
 [Yu Gong](https://gongy01.github.io/)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
