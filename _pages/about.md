@@ -27,54 +27,30 @@ Oriented toward applications in industrial intelligence, the team conducts resea
 
 Researchers Homepage
 ======
-
-[Dr. Zhen Song](https://gaoj02.github.io/)
-
-[Dr. Xiaojun Liang](https://liangxj156.github.io/)
-
-[Dr. Rongjie Wang](https://rongjiewang.github.io/rjwang.github.io/)
-
-[Dr. Haofei Wang](https://haofei-wang.github.io/about/)
-
-[Dr. Weichao Luo](https://1359246372.github.io/WeichaoLuo.github.io//)
-
-[Dr. Jingwu Pan](https://mor5on.github.io/Jingwu.github.io/)
-
-[Dr. Yucheng Zhang](https://yucheng-zhang.github.io/)
-
-[Dr. Yawen Zhang](https://zhangyawen818.github.io/zyw/)
-
-[Dr. Fan Dong](https://fdong-pcl.github.io/)
-
-[Dr. Zinan Xiong](https://ttppss.github.io/zinanxiong/)
-
-[Dr. Nan Zhou](https://morthlee.github.io/)
-
-[Dr. Ting Cao](https://zjualbee.github.io/tingcao.github.io/)
-
-[Dr. Yuanxun Xia](https://yxx025124.github.io/)
-
-[Dr. Ju Dai](https://daiju-pcl.github.io/)
-
-[Dr. Kaida Ning](https://kaidaning.github.io/)
-
-[Dr. Wenfeng Deng](https://deng-wf.github.io/)
-
-[Dr. Guangwei Wen](https://guangweiwen.github.io)
-
-[Dr. Xiaoning Zhang](https://xn-zhang.github.io/)
-
-[Dr. Peng Tang](https://neitontang.github.io/)
-
-[Dasen Yan](https://yds1024.github.io/)
-
-[Jianhao Wu](https://andrewwjh.github.io/)
-
-[Muyao Chen](https://muyaoc.github.io/academicpages.github.io/)
-
-[Tiancheng Zhang](https://mikeztc.github.io/)
-
-[Yu Gong](https://gongy01.github.io/)
+- [Dr. Zhen Song](https://gaoj02.github.io/)
+- [Dr. Xiaojun Liang](https://liangxj156.github.io/)
+- [Dr. Rongjie Wang](https://rongjiewang.github.io/rjwang.github.io/)
+- [Dr. Haofei Wang](https://haofei-wang.github.io/about/)
+- [Dr. Weichao Luo](https://1359246372.github.io/WeichaoLuo.github.io//)
+- [Dr. Jingwu Pan](https://mor5on.github.io/Jingwu.github.io/)
+- [Dr. Yucheng Zhang](https://yucheng-zhang.github.io/)
+- [Dr. Yawen Zhang](https://zhangyawen818.github.io/zyw/)
+- [Dr. Fan Dong](https://fdong-pcl.github.io/)
+- [Dr. Zinan Xiong](https://ttppss.github.io/zinanxiong/)
+- [Dr. Nan Zhou](https://morthlee.github.io/)
+- [Dr. Ting Cao](https://zjualbee.github.io/tingcao.github.io/)
+- [Dr. Yuanxun Xia](https://yxx025124.github.io/)
+- [Dr. Ju Dai](https://daiju-pcl.github.io/)
+- [Dr. Kaida Ning](https://kaidaning.github.io/)
+- [Dr. Wenfeng Deng](https://deng-wf.github.io/)
+- [Dr. Guangwei Wen](https://guangweiwen.github.io)
+- [Dr. Xiaoning Zhang](https://xn-zhang.github.io/)
+- [Dr. Peng Tang](https://neitontang.github.io/)
+- [Dasen Yan](https://yds1024.github.io/)
+- [Jianhao Wu](https://andrewwjh.github.io/)
+- [Muyao Chen](https://muyaoc.github.io/academicpages.github.io/)
+- [Tiancheng Zhang](https://mikeztc.github.io/)
+- [Yu Gong](https://gongy01.github.io/)
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
