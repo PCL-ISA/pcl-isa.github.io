@@ -30,7 +30,7 @@ Researchers Homepage
 - [Dr. Zhen Song](https://gaoj02.github.io/)
 - [Dr. Xiaojun Liang](https://liangxj156.github.io/)
 - [Dr. Rongjie Wang](https://rongjiewang.github.io/rjwang.github.io/)
-- [Dr. Haofei Wang](https://haofei-wang.github.io/about/)
+- [Dr. Haofei Wang](https://haofei-wang.github.io/)
 - [Dr. Weichao Luo](https://1359246372.github.io/WeichaoLuo.github.io//)
 - [Dr. Jingwu Pan](https://mor5on.github.io/Jingwu.github.io/)
 - [Dr. Yucheng Zhang](https://yucheng-zhang.github.io/)
